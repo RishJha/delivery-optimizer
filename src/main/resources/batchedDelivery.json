@@ -1,0 +1,45 @@
+{
+  "agent": {
+    "name": "Aman",
+    "location": {
+      "latitude": 12.935,
+      "longitude": 77.625
+    }
+  },
+  "deliveries": [
+    {
+      "restaurant": {
+        "name": "R1",
+        "location": {
+          "latitude": 12.937,
+          "longitude": 77.626
+        }
+      },
+      "customer": {
+        "name": "C1",
+        "location": {
+          "latitude": 12.938,
+          "longitude": 77.627
+        }
+      },
+      "prepTime": 15
+    },
+    {
+      "restaurant": {
+        "name": "R2",
+        "location": {
+          "latitude": 12.936,
+          "longitude": 77.628
+        }
+      },
+      "customer": {
+        "name": "C2",
+        "location": {
+          "latitude": 12.939,
+          "longitude": 77.629
+        }
+      },
+      "prepTime": 20
+    }
+  ]
+}
